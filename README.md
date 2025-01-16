@@ -8,7 +8,6 @@
 - [🛠️ Technologies Used](#🛠️-technologies-used)
 - [📊 Dataset](#📊-dataset)
 - [💡 Future Enhancements](#💡-future-enhancements)
-- [👤 Contributing](#👤-contributing)
 
 ## 📚 Introduction
 The **Movie Recommendation System** suggests personalized movie recommendations to users based on their past ratings and preferences. It employs a **Content-Based Filtering** approach, analyzing movie attributes such as genre, cast, and director to find similarities and recommend movies that align with user interests.
@@ -50,5 +49,3 @@ Utilizes the **MovieLens** dataset, containing user ratings, movie titles, and g
 - 💻 **Enhanced User Interface**: Develop a GUI for better user experience.
 - 🛠️ **Real-time Data Integration**: Fetch live movie data and ratings from online APIs.
 
-## 👤 Contributing
-Contributions are welcome! 🌟 Feel free to open issues and submit pull requests to improve the project.
