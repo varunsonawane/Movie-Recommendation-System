@@ -1,4 +1,3 @@
-
 # 🎬 Movie Recommendation System
 
 ## 📝 Table of Contents
